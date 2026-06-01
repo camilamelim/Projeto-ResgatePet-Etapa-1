@@ -45,16 +45,6 @@ Apresentação de envolvidos no projeto/ONG
 - **HTML5**
 - **CSS3**
 - **JavaScript (básico)**
-- **Banco de Dados (Etapa 2 do projeto)**
-
----
-
-## 🗄️ Integração com Banco de Dados
-Na **segunda etapa do projeto**, foi realizada a integração com banco de dados, permitindo tornar o sistema mais dinâmico.
-
-🔹 As informações exibidas na tela de **adoção de animais** passaram a ser carregadas diretamente do banco de dados  
-🔹 Possibilitando maior flexibilidade na atualização dos dados  
-🔹 Tornando o sistema mais próximo de uma aplicação real 
 
 ---
 
